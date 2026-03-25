@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Plumbers"
 permalink: /plumbers
+---
 
 | Name          | Phone         |
 | ------------- |:-------------:|
