@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Whitehouse Community Trades and Services Directory
 description: Bookmark this to keep an eye on updates!
+baseurl: ""
