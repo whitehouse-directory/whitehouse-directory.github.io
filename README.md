@@ -1,3 +1,3 @@
 ## Categories
 
-- [Plumbers](plumbers)
+- [Plumbers](/plumbers)
